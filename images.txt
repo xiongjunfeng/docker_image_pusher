@@ -1,1 +1,2 @@
 niuniushan/screenagent-env:latest
+chainguard/pytorch-cuda12
