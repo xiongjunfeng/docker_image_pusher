@@ -1,3 +1,1 @@
-hello-world
-niuniushan/screenagent-env:latest
-chainguard/pytorch-cuda12
+qwenllm/qwen
